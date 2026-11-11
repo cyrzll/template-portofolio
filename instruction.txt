@@ -1,0 +1,6 @@
+PELATIHAN PEMBUATAN WEBSITE MENGGUNAKAN HTML DAN CSS(TailwindCSS)
+
+1. Instal aplikasi "VS Code" yang ada pada folder yang sama.
+2. Buka aplikasi "VS Code" dan seret folder bernama "template"
+3. Buka menu Extensions pada sidebar lalu cari "WindiCSS IntelliSense", dan "Live Server" install semuanya
+4. Klik kembali ke menu Explorer pada sidebar lalu klik file yang bernama index.html klik kanan lalu pilih "Open With Live Server"
